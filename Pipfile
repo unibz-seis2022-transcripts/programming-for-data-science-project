@@ -17,6 +17,7 @@ gensim = "*"
 
 [dev-packages]
 ipykernel = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.10"
